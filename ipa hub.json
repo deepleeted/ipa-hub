@@ -1,0 +1,51 @@
+{
+  "name": "ipa hub",
+  "subtitle": "a source with IOS IPA’S",
+  "description": "Here you'll find IOS IPA’S\n\ndiscord: deepleeted",
+  "iconURL": "https://i.imgur.com/n5n7z04.png",
+  "website": "https://discord.gg/9Zs93ZJpsc",
+  "tintColor": "#1e8ac6",
+  "featuredApps": [
+    "com.box.hd.flix.drama.hub"
+  ],
+  "headerURL": "https://i.imgur.com/Iro1YmP.png",
+  "apps": [
+    {
+      "name": "HD Flix (NO ADS)",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "developerName": "optzeci",
+      "subtitle": "a movie/anime/show app",
+      "localizedDescription": "With HD Flix on your phone, you are able to watch HD film content and shows. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.",
+      "iconURL": "https://i.imgur.com/Jwh4pBu.png",
+      "tintColor": "#ee4142",
+      "category": "entertainment",
+      "screenshots": [
+        "https://i.imgur.com/2VW6ZHW.png",
+        "https://i.imgur.com/0N684WG.png",
+        "https://i.imgur.com/kCThSfL.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1WFIC3lnZymyVDiDxO3dG61AeXlCinIfe&export=download&authuser=0",
+          "size": 14700000,
+          "version": "2.0",
+          "date": "2025-05-07T16:11:00-05:00",
+          "localizedDescription": "✨what makes this version better? \n⚡️super-fast streaming with crisp 4K Ultra HD quality \n🌐voiceover options in multiple languages & AI-powered subtitles\n🛡️built for stability - minimal lag or crashes\n🔄regular maintenance & trusted long-term support\n🚀cleaner, faster, and easier-to-use interface",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://postbacks-app.com",
+          "NSMicrophoneUsageDescription": "The application needs access to the microphone to recognize your voice to convert voice to title of the journey.",
+          "NSPhotoLibraryUsageDescription": "The application needs access to the photo library to create the journey.",
+          "NSSpeechRecognitionUsageDescription": "The application needs access to speech recognition to convert your voice to title of the journey.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      }
+
+    }
+  ],
+  "news": []
+}
