@@ -6,10 +6,48 @@
   "website": "https://discord.gg/9Zs93ZJpsc",
   "tintColor": "#1e8ac6",
   "featuredApps": [
-    "com.box.hd.flix.drama.hub"
+    "com.box.hd.flix.drama.hub",
+    "com.streamerapp.ios"
   ],
   "headerURL": "https://i.imgur.com/Iro1YmP.png",
   "apps": [
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamerapp.ios",
+      "developerName": "bard1313",
+      "subtitle": "App for Tracking Movies and TV shows on iOS and tvOS",
+      "localizedDescription": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS\n\nStream all TV shows and Movies from multiple websites\nSupports Chromecast to stream to FireTV and Chromecasts\nSupports multi-language subtitles for iOS and tvOS\nFavorite functionality to quickly access your favorite shows and movies\nSupported providers\n\n🇺🇸 MovieBoxPro: 4k English content with multi-language subtitles\n🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming\n🇺🇸 FlixHQ.to: English content\n🇺🇸 PutLocker.vip: English content\n🇫🇷 Empire-stream.net: French content\n🇩🇪 KinoKiste.club: German content\n🇩🇪 FilmPalast.to: German content\n🇸🇦 Akwam.to: Arabic content\n🇸🇦 Arabseed.ink: Arabic content\n🇸🇦 FaselHD.vip: Arabic content\n🇰🇷 ViewAsian.co: Asian content\n⾞ Kaido.to: Anime content",
+      "iconURL": "https://i.imgur.com/wzpjso7.png",
+      "tintColor": "#7c7c82",
+      "category": "entertainment",
+      "screenshots": [
+        "https://i.imgur.com/FOp7BCQ.png",
+        "https://i.imgur.com/wFCv9ex.png",
+        "https://i.imgur.com/xUDUB2q.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1LIuqGXLN4WpH6_43YaKZkdwSHU6LBNED&export=download&authuser=0",
+          "size": 45400000,
+          "version": "1.3.0",
+          "date": "2025-05-20T06:47:00-05:00",
+          "localizedDescription": "Bug Fixes:\n\n•MultiProviderSearch now works like it’s supposed to. Search away!\n\n•Sora Fixes - hopefully no more surprise naughty videos (still NSFW, so proceed with caution).\n\n•Stremio ID issue - patched up!\n\n•Stremio catalog bug - full category names are back. No more guessing.\n\n•Progress bar fix - it finally knows how to behave.",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://postbacks-app.com",
+          "NSBluetoothAlwaysUsageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSCameraUsageDescription": "Some ad content may access camera to take picture.",
+          "NSLocalNetworkUsageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSMotionUsageDescription": "Some ad content may require access to accelerometer for interactive ad experience.",
+          "NSPhotoLibraryUsageDescription": "Some ad content may require access to the photo library.",
+          "NSUserTrackingUsageDescription": "App would like to access IDFA for tracking purpose"
+        }
+      }
+    },
     {
       "name": "HD Flix (NO ADS)",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
@@ -26,11 +64,11 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://drive.usercontent.google.com/download?id=1WFIC3lnZymyVDiDxO3dG61AeXlCinIfe&export=download&authuser=0",
-          "size": 14700000,
           "version": "2.0",
           "date": "2025-05-07T16:11:00-05:00",
           "localizedDescription": "✨what makes this version better? \n⚡️super-fast streaming with crisp 4K Ultra HD quality \n🌐voiceover options in multiple languages & AI-powered subtitles\n🛡️built for stability - minimal lag or crashes\n🔄regular maintenance & trusted long-term support\n🚀cleaner, faster, and easier-to-use interface",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1WFIC3lnZymyVDiDxO3dG61AeXlCinIfe&export=download&authuser=0",
+          "size": 14700000,
           "minOSVersion": null
         }
       ],
@@ -44,7 +82,6 @@
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
         }
       }
-
     }
   ],
   "news": []
