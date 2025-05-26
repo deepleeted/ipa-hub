@@ -15,10 +15,88 @@
     "com.atebits.Tweetie2",
     "com.astafiev.app",
     "com.google.ios.youtubemusic",
-    "com.neo.countdown"
+    "com.neo.countdown",
+    "com.burbn.instagrami",
+    "com.gloop.deltamobile"
   ],
   "headerURL": "https://i.imgur.com/Iro1YmP.png",
   "apps": [
+    {
+      "name": "Roblox",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "developerName": "DeltaExploits",
+      "subtitle": "Exploiting executer",
+      "localizedDescription": "Delta Executor IPA is a powerful tool designed for Iphone users who want to enhance their gaming experience. Developed by DeltaExploits, this app provides a seamless and efficient way to execute scripts, especially for Roblox.",
+      "iconURL": "https://i.imgur.com/6b3C9VL.png",
+      "tintColor": "#3454fc",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/zg5v3qi5jdmeyr4mz6o3i/Delta_2.670.ipa?rlkey=zhe9v0v3amv2vvs551zeytx6j&st=l0u7s6qo&dl=1",
+          "size": 165600000,
+          "version": "2.670.714",
+          "date": "2025-05-26T18:25:00-05:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Roblox uses your camera to animate your avatar with your movement and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      }
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagrami",
+      "developerName": "FouadRaheb",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "localizedDescription": "Tweaks for instagram\n",
+      "iconURL": "https://i.imgur.com/vNErN2Z.jpeg",
+      "tintColor": "#f95ddf",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/2wmyb07lccelrwawxmd2y/InstagramRegram.ipa?rlkey=rhzln5dhyimyr6hmikhzgnudv&st=r39e4qy3&dl=1",
+          "size": 204700000,
+          "version": "382.0.0",
+          "date": "2025-05-26T18:18:00-05:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+        }
+      }
+    },
     {
       "name": "Countdown",
       "bundleIdentifier": "com.neo.countdown",
@@ -33,11 +111,11 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://www.dropbox.com/scl/fi/qhcsk1vg6hnupms7360vu/Countdown_1.6_1748179441.ipa?rlkey=v82sbdjf5yxxn9zq2r6mc2vom&st=0ajj7iy2&dl=1",
-          "size": 800000,
           "version": "1.6",
           "date": "2025-05-22T13:28:00-05:00",
           "localizedDescription": "Added new animation!",
+          "downloadURL": "https://www.dropbox.com/scl/fi/qhcsk1vg6hnupms7360vu/Countdown_1.6_1748179441.ipa?rlkey=v82sbdjf5yxxn9zq2r6mc2vom&st=0ajj7iy2&dl=1",
+          "size": 800000,
           "minOSVersion": null
         }
       ],
